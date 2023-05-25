@@ -8,4 +8,15 @@
 * collab notebook
 * cloud functions
 * LinkedIn
+* YouTube video
 
+ ## M5F file
+ In this file, you will have the code for the different functionalities we tried using the M5Stack Core2 device. We had the opportunity to add the GPS unit to the device to retrieve GPS data (Latitude, Longitude, Altitude, Speed converted from knots to km/h). We set a timer so the data does not overflow. We decided to implement the remote feature to start and stop the device with the GPS unit.
+
+## Collab Notebook
+
+## Cloud Functions on GCP
+
+## LinkedIn Post
+
+## YouTube Video
