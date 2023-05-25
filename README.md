@@ -1,5 +1,5 @@
 # CAA2023_UNIL_Microsoft Cloud x IoT : GPS for bikers
-*This is our way of resolving the coding challenge!*
+*This is our attempt to develop a GPS for bikers using the M5Stack Core2 device connected to the GPS unit and APIs from the Google Cloud Platform*
 
 <img width="649" alt="Screenshot 2023-05-25 at 11 21 08" src="https://github.com/Srivathshan-Paramalingam-0505/CAA2023_UNIL_Microsoft/assets/83650518/74967780-58ee-4243-9e4a-c4a76ba07e32">
 
