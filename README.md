@@ -5,7 +5,7 @@
 
 ## Summary
 * m5f file
-* collab notebook
+* colab notebook
 * cloud functions
 * LinkedIn
 * YouTube video
@@ -15,7 +15,7 @@
  <img width="724" alt="Screenshot 2023-05-25 at 16 02 54" src="https://github.com/Srivathshan-Paramalingam-0505/CAA2023_UNIL_Microsoft/assets/83650518/9714da67-adad-4a82-b194-d3b5158373a1">
 
 
-## Collab Notebook
+## Colab Notebook
 This notebook contains every functions we tested, every API from GCP. Every step we did is documented on the notebook
 
 ## Cloud Functions on GCP
