@@ -18,6 +18,8 @@ This project aimed to implement a GPS within the M5Stack Core2 device for the bi
 
 ## Colab Notebook
 The colab notebook contains every attempts to get to our expected results. The notebook is documented enough so the experiments can be reproduced.
+<img width="1309" alt="Screenshot 2023-05-31 at 20 31 56" src="https://github.com/Srivathshan-Paramalingam-0505/CAA2023_UNIL_Microsoft/assets/83650518/d313d0d2-bfac-4816-8934-b8d04e58eca6">
+
 
 ## Cloud Functions on GCP
 This section contains three different cloud functions we deployed through Google Cloud Platform
