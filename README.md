@@ -19,8 +19,10 @@ The colab notebook contains every attempt to get to our expected results. The no
  
  ## Micropython files 
  In this file, you will have the code for the different functionalities we tried using the M5Stack Core2 device (https://flow.m5stack.com/). 
- We had the opportunity to add the GPS unit to the device to retrieve GPS data (Latitude, Longitude, Altitude, Speed converted from knots to km/h). We set a timer so the data does not overflow. We decided to implement the remote feature to start and stop  the device with the GPS unit.
- <img width="724" alt="Screenshot 2023-05-25 at 16 02 54" src="https://github.com/Srivathshan-Paramalingam-0505/CAA2023_UNIL_Microsoft/assets/83650518/9714da67-adad-4a82-b194-d3b5158373a1">
+ We had the opportunity to add the GPS unit to the device to retrieve GPS data (Latitude, Longitude, Altitude, Speed converted from knots to km/h). 
+ The interface file is more focused about the display we wanted to set in our device.
+ Whereas the final file implements the Google Cloud function with the interface.
+
 
 ## Cloud Functions on GCP
 In that folder, you will find 3 Google Cloud functions, that we used to make our tests, in order to extract an image from Google APIs and open it in our IoT device.
