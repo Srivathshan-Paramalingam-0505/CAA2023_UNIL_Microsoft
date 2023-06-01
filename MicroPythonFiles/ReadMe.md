@@ -7,5 +7,5 @@ In this file, the idea is to merge the graphical elements from the first file, w
 We used a loop to process the information retrieved from the cloud function. With that loop, we are able to display the right informations (distance, duration, maneuver) when the biker will reach the next area of the next step, based on the GPS coordinates.
 
 
-
-For this to work, it would of course be necessary to take into consideration the precision of the GPS unit and make some tests to see if the bikers get the information at an accurate enough time when riding his path.
+## Limitation
+For this to work, it would of course be necessary to take into consideration the precision of the GPS unit and make some tests to see if the bikers get the informations at the right time when riding his path.
