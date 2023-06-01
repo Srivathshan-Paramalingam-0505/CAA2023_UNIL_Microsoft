@@ -6,6 +6,7 @@
 In this file, the idea is to merge the graphical elements from the first file, with the external functionality we want to use, such as our Cloud function "generate_step_info".
 We used a loop to process the information retrieved from the cloud function. With that loop, we are able to display the right informations (distance, duration, maneuver) when the biker will reach the next area of the next step, based on the GPS coordinates.
 
+![FinalDisplay](https://github.com/Srivathshan-Paramalingam-0505/CAA2023_UNIL_Microsoft/assets/114418847/7c0e0d2c-a1df-4db6-a955-ea327ca5cc1b)
 
 ## Limitation
 For this to work, it would of course be necessary to take into consideration the precision of the GPS unit and make some tests to see if the bikers get the informations at the right time when riding his path.
