@@ -9,4 +9,4 @@ We used a loop to process the information retrieved from the cloud function. Wit
 ![FinalDisplay](https://github.com/Srivathshan-Paramalingam-0505/CAA2023_UNIL_Microsoft/assets/114418847/f9f969b3-f0f7-4f1c-aa4e-b5b971c5b515)
 
 ## Limitation
-For this to work, it would of course be necessary to take into consideration the precision of the GPS unit and make some tests to see if the bikers get the informations at the right time when riding his path.
+For this to work, it would of course be necessary to take into consideration the precision of the GPS unit and make some tests to see if the bikers get the informations at the right time when riding their path.
