@@ -48,5 +48,9 @@ Depending on your objectives, you can be very quickly asked to know a bit of a l
 * Improving the Display ( arrows for maneuvres, set a define range that would indicate if the biker is going the wrong way,...etc)
 * Being able to set the origin and destination by using the biker's inputs.
 
+## Contribution
+* Srivathshan Paramalingam: Interface on the Core2Device, integration of the selected APIs into the device.
+* CHristophe Rosset: Cloud functions testing (Colab), API selection and integration into the device
+
 ## YouTube Video
 Link to the video : https://youtu.be/E6W3VB410XY
