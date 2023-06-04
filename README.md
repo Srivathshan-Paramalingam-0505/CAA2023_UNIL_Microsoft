@@ -8,7 +8,6 @@ This project aimed to implement a GPS within the M5Stack Core2 device for the bi
 * Colab notebook
 * Micropython files
 * Cloud functions
-* LinkedIn
 * YouTube video
 
 This project is a really challenging one. At the end, we did not end up with a solution that satisfies us, but with the informations we are providing, we hope to shorten the gap to come up with a solution that goes in the line of Google Maps.
@@ -50,4 +49,4 @@ Depending on your objectives, you can be very quickly asked to know a bit of a l
 * Being able to set the origin and destination by using the biker's inputs.
 
 ## YouTube Video
-Link to the video : 
+Link to the video : https://youtu.be/E6W3VB410XY
