@@ -44,8 +44,10 @@ As students, we had 14 weeks to progress in that project. During that time, we u
 ### Required knowledge
 Depending on your objectives, you can be very quickly asked to know a bit of a lot of different services, that you need to understand at least at a high-level scale. To improve that, spending more time learning on different services that Google Cloud provides could be very interesting in order to get a better overview of the possibilities. Indeed, that could even avoid using non relevant services, depending on the fixed objectives.
 
-## LinkedIn Post
-Link to the post : 
+## Next Steps 
+* Find a way to calibrate the GPS unit to display the next steps in a more precise way
+* Improving the Display ( arrows for maneuvres, set a define range that would indicate if the biker is going the wrong way,...etc)
+* Being able to set the origin and destination by using the biker's inputs.
 
 ## YouTube Video
 Link to the video : 
