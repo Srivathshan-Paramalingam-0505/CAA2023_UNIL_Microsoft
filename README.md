@@ -15,7 +15,8 @@ This project is a really challenging one. At the end, we did not end up with a s
 
 ## Colab Notebook
 The colab notebook contains every attempt to get to our expected results. The notebook is documented enough so the experiments can be reproduced.
-<img width="1309" alt="Screenshot 2023-05-31 at 20 31 56" src="https://github.com/Srivathshan-Paramalingam-0505/CAA2023_UNIL_Microsoft/assets/83650518/d313d0d2-bfac-4816-8934-b8d04e58eca6">
+<img width="867" alt="Screenshot 2023-06-04 at 17 04 50" src="https://github.com/Srivathshan-Paramalingam-0505/CAA2023_UNIL_Microsoft/assets/83650518/09563eab-4c6a-4cb4-984d-223cb12b7f9d">
+
  
 ## Micropython files 
 In this file, you will have the code for the different functionalities we tried using the M5Stack Core2 device (https://flow.m5stack.com/). 
